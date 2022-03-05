@@ -27,7 +27,3 @@
   
 </div>
 
-<div align="center">
-  <p>Desenvolvido com muito :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
