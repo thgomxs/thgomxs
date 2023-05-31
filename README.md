@@ -6,8 +6,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/thgomesdev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thgomes1&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgomes1&theme=github_dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thgomesdev&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgomesdev&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 ### Contacts
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/thgomes1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thgomesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
