@@ -2,10 +2,9 @@
 
 - Desenvolvedor Full Stack, apaixonado pela tecnologia desde sempre. 📚 <br>
 - Atualmente estudando e se aperfeiçoando no desenvolvimento web com HTML, CSS, JavaScript, NodeJS e React. 👨‍💻
-
 <br />
 
-### Contacts
+### Contate-me
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/thgomesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
