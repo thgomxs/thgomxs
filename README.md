@@ -35,6 +35,6 @@
 ### Tecnologias em aperfeiçoamento
 
 <div style="display: inline_block">
-  
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br>
 
