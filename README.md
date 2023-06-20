@@ -4,15 +4,6 @@
 - Atualmente estudando e se aperfeiçoando no desenvolvimento web com HTML, CSS, JavaScript, NodeJS e React. 👨‍💻
 
 <br />
-<div align="center">
-  <a href="https://github.com/thgomesdev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thgomesdev&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgomesdev&theme=github_dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
-
 ### Contacts
 
 <div style="display: inline_block">
