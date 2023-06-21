@@ -27,6 +27,6 @@
 
 <div style="display: inline_block">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" />
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
 </div><br>
 
