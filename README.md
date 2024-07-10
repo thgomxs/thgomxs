@@ -1,13 +1,13 @@
 ## Olá, Eu sou o Thiago Gomes 😉️
 
 - Desenvolvedor Full Stack, apaixonado pela tecnologia desde sempre. 📚 <br>
-- Atualmente estudando e se aperfeiçoando no desenvolvimento web com HTML, CSS, JavaScript, NodeJS e React. 👨‍💻
+- Atualmente estudando e se aperfeiçoando no desenvolvimento web com HTML, CSS, JavaScript, NodeJS, React, Python e Flask. 👨‍💻
 <br />
 
 ### Contate-me
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/thgomesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thgomxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
