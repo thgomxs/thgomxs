@@ -1,7 +1,6 @@
 ## Hi, my name is Thiago Gomes 😉️
 
-- Software engineering student, passionate about technology since forever. 📚 <br>
-<br />
+- Software engineering student, passionate about technology since forever. 📚 
 
 ### Contact me
 
