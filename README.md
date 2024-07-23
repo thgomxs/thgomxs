@@ -1,17 +1,16 @@
-## Olá, Eu sou o Thiago Gomes 😉️
+## Hi, my name is Thiago Gomes 😉️
 
-- Desenvolvedor Full Stack, apaixonado pela tecnologia desde sempre. 📚 <br>
-- Atualmente estudando e se aperfeiçoando no desenvolvimento web com HTML, CSS, JavaScript, NodeJS, React, Python e Flask. 👨‍💻
+- Software engineering student, passionate about technology since forever. 📚 <br>
 <br />
 
-### Contate-me
+### Contact me
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/thgomxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-### Tecnologias 
+### Main skill 
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,7 +21,7 @@
   <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
-### Tecnologias em aperfeiçoamento
+### Studying...
 
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
