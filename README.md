@@ -26,7 +26,7 @@ Software engineering student, passionate about technology since forever. 📚
 
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=ff0000" />
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=blue" />
 </div><br>
 
 ### Contact
