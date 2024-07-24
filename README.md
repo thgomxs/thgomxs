@@ -1,13 +1,16 @@
-## Hi, my name is Thiago Gomes 😉️
+## Hello, my name is Thiago Gomes 😉️
+
+### About me
 
 - Software engineering student, passionate about technology since forever. 📚 
 
-### Contact me
+### GitHub Statistics
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/thgomxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+<div align="center">
+  <a href="https://github.com/thgomxs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thgomxs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgomxs&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
   
 ### Main skill 
 
@@ -27,3 +30,9 @@
     <img align="center" alt="nestjs" src="https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=ff0000" />
 </div><br>
 
+### Contact
+
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/thgomxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
