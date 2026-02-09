@@ -1,37 +1,41 @@
-## Hello, my name is Thiago Gomes 😉️
+<h1 align="center">Hello, I'm Thiago 👋</h1>
 
-### About me
+<p align="center">
+  <em>Software Engineering Student</em>
+</p>
 
-Software engineering student, passionate about technology since forever. 📚 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
+</p>
 
-### GitHub Statistics
+---
 
-<div align="start">
-  <a href="https://github.com/thgomxs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thgomxs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thgomxs&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
-### Main skill 
+<p align="center">
+  Tech enthusiast since childhood, transforming curiosity into knowledge and solutions.<br>
+  Here you will find all my projects!
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align='center' alt="MongoDB Icon" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thgomxs/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:thiagogomespereiradeabreu@gmail.com">
+    <img src="https://img.shields.io/badge/-thiago...@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-### Studying...
+---
 
-<div style="display: inline_block">
-    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=blue" />
-</div><br>
+### 🧠 About Me
 
-### Contact
+- 🎓 **Software Engineering** Student.
+- 💼 Currently a **Fullstack Developer Intern**, building interfaces and APIs with **AdonisJS and React**.
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/thgomxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiagogomespereiradeabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,python,c,java,postgres,git,docker&theme=dark" />
+</p>
+
