@@ -1,14 +1,5 @@
 <h1 align="center">Hello, I'm Thiago 👋</h1>
 
-<p align="center">
-  <em>Software Engineering Student</em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
-</p>
-
----
 
 <p align="center">
   Tech enthusiast since childhood, transforming curiosity into knowledge and solutions.<br>
